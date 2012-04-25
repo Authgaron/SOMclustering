@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOMgrid", "SOMgrid\SOMgrid\SOMgrid.csproj", "{5750B557-6324-41B7-B41E-A5A6E5104C34}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SOMgridContent", "SOMgrid\SOMgridContent\SOMgridContent.contentproj", "{C71A55AF-98CD-4595-AD8F-49961DEE8BFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5750B557-6324-41B7-B41E-A5A6E5104C34}.Debug|x86.ActiveCfg = Debug|x86
+		{5750B557-6324-41B7-B41E-A5A6E5104C34}.Debug|x86.Build.0 = Debug|x86
+		{5750B557-6324-41B7-B41E-A5A6E5104C34}.Release|x86.ActiveCfg = Release|x86
+		{5750B557-6324-41B7-B41E-A5A6E5104C34}.Release|x86.Build.0 = Release|x86
+		{C71A55AF-98CD-4595-AD8F-49961DEE8BFD}.Debug|x86.ActiveCfg = Debug|x86
+		{C71A55AF-98CD-4595-AD8F-49961DEE8BFD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

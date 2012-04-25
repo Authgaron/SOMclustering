@@ -1,0 +1,2 @@
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgridContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgridContent\obj\x86\Debug\ResolveAssemblyReference.cache

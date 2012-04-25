@@ -1,0 +1,14 @@
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\SOMgrid.exe
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\SOMgrid.pdb
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\SOMgrid.exe
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\SOMgrid.pdb
+C:\Users\Authgaron\Desktop\ML\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\Content\centre.xnb
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\Content\centre.xnb
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\SOMgrid.exe
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\bin\x86\Debug\SOMgrid.pdb
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\SOMgrid.exe
+C:\Users\Authgaron\Desktop\SOMgrid\SOMgrid\SOMgrid\obj\x86\Debug\SOMgrid.pdb
